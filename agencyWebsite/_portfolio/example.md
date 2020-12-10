@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Cyberpunk 2077
-  subtitle: 91/100
+  subtitle: 9/10
   thumbnail: /assets/img/portfolio/cptitle.jpg
 #what displays when the item is clicked:
 title: Cyberpunk 2077
