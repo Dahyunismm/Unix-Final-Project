@@ -6,7 +6,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Enter the Gungeon
 subtitle: Conquer the 5 floors of the Gungeon to destroy your past!
-image: https://raw.githubusercontent.com/Dahyunismm/Unix-Final-Project/main/agencyWebsite/assets/img/portfolio/gungeon2.jpg
+image: https://raw.githubusercontent.com/Dahyunismm/Unix-Final-Project/main/agencyWebsite/assets/img/portfolio/gungeon2.jpeg
 alt: when image no work
 
 
