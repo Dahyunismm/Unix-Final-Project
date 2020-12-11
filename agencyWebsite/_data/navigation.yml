@@ -2,17 +2,11 @@ nav:
   - title: "Services"
     section: services
 
-  - title: "Games"
+  - title: "Our Most Recent Game Reviews"
     section: portfolio
-    
-  - title: "About The B-Team"
-    section: timeline
 
   - title: "The B-Team"
     section: team
-
-  - title: "Contact"
-    section: contact
 
   - title: "Theme Source"
     url: https://github.com/raviriley/agency-jekyll-theme/
