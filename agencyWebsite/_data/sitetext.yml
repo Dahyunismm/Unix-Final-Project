@@ -1,5 +1,5 @@
 header:
-    title: IronRadar
+    title: B-TEAM
     text: Welcome to our video game publication website!
     button: Tell Me More
     buttonlink: "#services"
@@ -80,8 +80,8 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "THE B-TEAM"
+    text: "We kinda cool, i guess"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
@@ -102,7 +102,7 @@ team:
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Call us maybe..."
     section: contact
     
 footer:
