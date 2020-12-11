@@ -90,9 +90,9 @@ team:
         image: assets/img/team/500x500.jpg
         
           
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Herbert Domingo"
+        role: "Twicetagram"
+        image: assets/img/team/me.jpg
         
           
       - name: "Diana Perterson"
