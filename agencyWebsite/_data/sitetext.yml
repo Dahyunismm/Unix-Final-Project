@@ -6,18 +6,18 @@ header:
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Welcome to our website."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Good reviews"
+        desc: "We give out game reviews for both old and new games. Completely unbiased."
+        icon: fas fa-gamepad #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Click on any of the games below to see our review of it."
         icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "[Video Games?](https://en.wikipedia.org/wiki/Video_Game)"
+        desc: "For more info about video games, click the link above."
+        icon: fas fa-question
 
 portfolio:
     title: "Recent Reviews"
@@ -58,7 +58,7 @@ team:
     people:
       - name: "Gabriel Rivas"
         role: "Did some stuff"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/gr.png
         
           
       - name: "Herbert Domingo"
