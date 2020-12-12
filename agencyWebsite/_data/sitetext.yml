@@ -10,7 +10,7 @@ services:
     section: services
     list:
       - title: "Good reviews"
-        desc: "We give out game reviews for both old and new games. Completely unbiased."
+        desc: "We give out game reviews for both old and new games. Completely unbiased and correct."
         icon: fas fa-gamepad #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Click on any of the games below to see our review of it."
