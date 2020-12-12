@@ -5,27 +5,22 @@ header:
     buttonlink: "#services"
 
 services:
-    title: "Services"
+    title: "Who we are"
     text: "Welcome to our website."
     section: services
     list:
-      - title: "Good reviews"
-        desc: "We give out game reviews for both old and new games. Completely unbiased and correct."
-        icon: fas fa-gamepad #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Click on any of the games below to see our review of it."
-        icon: fas fa-laptop       
-      - title: "[Video Games?](https://en.wikipedia.org/wiki/Video_Game)"
-        desc: "For more info about video games, click the link above."
-        icon: fas fa-question
+      - title: "Reviews"
+        desc: "We give out unbiased game reviews for both old and new games.Click on any of the games below to see our reviews"
+        icon: fas fa-gamepad #find more at https://fontawesome.com/icons     
+      - title: "Latest News"
+        desc: "For more gaming news, click the subscribe button below."
+        icon: fas fa-newspaper
 
 portfolio:
     title: "Recent Reviews"
     section: portfolio
     closebutton: "Close"
     
-
-
 
 about:
     title: "About Us"
