@@ -1,8 +1,8 @@
 # Unix-Final-Project
   Creating a website and open it online
 
-#Authors
+# Authors
 Hakim Bouabdellah, Hebert Domingo and Gabriel Rivas
 
-#License
+# License
 [MIT](https://choosealicense.com/licenses/mit/)
