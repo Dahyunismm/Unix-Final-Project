@@ -1,5 +1,5 @@
 # Unix-Final-Project
-  Creating a website and open it online
+  Creating and editing content in a website built using Jekyll
 
 # Authors
 Hakim Bouabdellah, Hebert Domingo and Gabriel Rivas
