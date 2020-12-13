@@ -1,5 +1,5 @@
 # Unix-Final-Project
-  Creating and editing content in a website built using Jekyll
+  This is where we create and edit content in a website built using Jekyll
 
 # Authors
 Hakim Bouabdellah, Hebert Domingo and Gabriel Rivas
