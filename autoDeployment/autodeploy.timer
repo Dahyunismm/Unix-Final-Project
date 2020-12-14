@@ -1,0 +1,9 @@
+[Unit]
+Desciption=Auto Deploy Timer
+
+[Timer]
+Unit=autodeploy.service
+OnUnitActiveSec=5min
+
+[Install]
+WantedBy=timers.target
