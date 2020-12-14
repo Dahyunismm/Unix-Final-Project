@@ -20,12 +20,6 @@ portfolio:
     title: "Recent Reviews"
     section: portfolio
     closebutton: "Close"
-    
-
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
 
 clients:
     section: clients
@@ -67,8 +61,8 @@ team:
         
           
 contact:
-    title: "Contact Us"
-    text: "Call us maybe..."
+    title: "Subscribe"
+    text: "to see the latest news"
     section: contact
     
 footer:
