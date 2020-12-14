@@ -15,15 +15,15 @@
 1. Clone the github repository to your server
 
 2. Add the script in /usr/bin and make sure its executable (use chmod).
-script :
+script : https://github.com/Dahyunismm/Unix-Final-Project/blob/main/autoDeployment/autodeploy.sh
 *note : change the directories from the script to the directory of your server
 
 3. Setup a service for the script:
     - Add the service file in /etc/systemd/system/
-service:
+service: https://github.com/Dahyunismm/Unix-Final-Project/blob/main/autoDeployment/autodeploy.service
 
 4. Setup a timer in the same folder so that the script runs every 5 mins.
-timer:
+timer: https://github.com/Dahyunismm/Unix-Final-Project/blob/main/autoDeployment/autodeploy.timer
 
 5. Enable everything with systemctl enable.
 
